@@ -1,4 +1,5 @@
-#Weather Forecasting Dashboard (Power BI)
+## Weather Forecasting Dashboard (Power BI)
+
 This project is a Weather Forecasting Dashboard created using Power BI with real-time Weather API data.
 It converts raw JSON data into clean, interactive visuals for temperature, rain, and air quality insights.
 
